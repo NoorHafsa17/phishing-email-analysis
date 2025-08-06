@@ -1,5 +1,4 @@
 # phishing-email-analysis
-# Phishing Email Analysis – Cybersecurity Learning Project
 
 This repository contains a structured phishing email analysis conducted as part of a cybersecurity learning initiative. The project simulates a real-world phishing investigation, focusing on identifying spoofed email attributes, suspicious URLs, header anomalies, and manipulation tactics commonly used in social engineering attacks.
 
