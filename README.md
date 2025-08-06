@@ -1,6 +1,6 @@
 # phishing-email-analysis
 
-This repository contains a structured phishing email analysis conducted as part of a cybersecurity learning initiative. The project simulates a real-world phishing investigation, focusing on identifying spoofed email attributes, suspicious URLs, header anomalies, and manipulation tactics commonly used in social engineering attacks.
+This repository presents a structured phishing email analysis, focusing on detecting spoofed attributes, suspicious URLs, header anomalies, and common social engineering tactics.
 
 ---
 
@@ -18,7 +18,7 @@ The goal of this project is to enhance email threat detection and documentation 
 
 ---
 
-## Scope of Work
+## Project Scope
 
 - Selected a publicly available sample phishing email
 - Identified spoofed sender address and domain impersonation
@@ -41,45 +41,10 @@ The goal of this project is to enhance email threat detection and documentation 
 
 ---
 
-## Repository Structure
-
-phishing-email-analysis/
-├── LICENSE
-├── README.md
-├── Phishing_Report.md
-├── sample-email.txt
-└── screenshots/
-├── header_analysis.png
-├── link_scan_result.png
-└── email_view.png
-
-
----
-
-## Deliverables
-
-- `Phishing_Report.md`: Step-by-step phishing analysis report
-- `sample-email.txt`: Raw text of the analyzed email
-- `screenshots/`: Proof of investigation (header scan, link scan, full email view)
-- `README.md`: Project overview and documentation
-
----
-
-## Project Context
-
-This project was created as part of a cybersecurity learning task to demonstrate proficiency in email threat analysis and structured reporting. The exercise replicates processes commonly performed by security professionals during the investigation of potential phishing incidents.
-
----
-
-## Disclaimer
-
-This project is intended strictly for educational and awareness-building purposes. The phishing email analyzed is a publicly available sample and does not involve or impact any real individuals or systems.
-
----
-
 ## Author
 
 **Noor Hafsa**  
+CyberSecurity Enthusiast
 GitHub: [https://github.com/NoorHafsa17](https://github.com/NoorHafsa17)
 
 This project was completed to strengthen practical cybersecurity skills through hands-on investigation and documentation of phishing attack technique 
