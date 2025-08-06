@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This report presents an analysis of a sample phishing email to identify key indicators of a phishing attempt. The objective of this task is to develop awareness of phishing techniques, improve detection skills, and document findings in a structured, evidence-based format. This forms part of a cybersecurity internship project focused on real-world threat recognition.
+This report presents an analysis of a sample phishing email to identify key indicators of a phishing attempt. The objective of this task is to develop awareness of phishing techniques, improve detection skills, and document findings in a structured, evidence-based format. 
 
 ---
 
