@@ -119,7 +119,7 @@ Understanding how to recognize these signs is a fundamental skill in cybersecuri
 ## Author
 
 Noor Hafsa  
-Cybersecurity Enthusiast 
+Cybersecurity Enthusiast. 
 GitHub: [https://github.com/NoorHafsa17](https://github.com/NoorHafsa17)
 
 This analysis is created as part of a cybersecurity learning task to demonstrate professional phishing email investigation workflow.
