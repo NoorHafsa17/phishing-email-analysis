@@ -8,11 +8,11 @@ This repository presents a structured phishing email analysis, focusing on detec
 
 To investigate a sample phishing email and highlight common indicators of malicious intent, including:
 
-- Impersonated sender domains
-- Mismatched or deceptive URLs
-- Email header inconsistencies
-- Urgent or fear-inducing language
-- Unprofessional tone and formatting
+- Impersonated sender domains.
+- Mismatched or deceptive URLs.
+- Email header inconsistencies.
+- Urgent or fear-inducing language.
+- Unprofessional tone and formatting.
 
 The goal of this project is to enhance email threat detection and documentation skills in the context of real-world cybersecurity challenges.
 
@@ -20,12 +20,12 @@ The goal of this project is to enhance email threat detection and documentation 
 
 ## Project Scope
 
-- Selected a publicly available sample phishing email
-- Identified spoofed sender address and domain impersonation
-- Analyzed email headers using MXToolbox to detect SPF/DKIM/DMARC failures
-- Evaluated embedded URLs using VirusTotal and URLScan.io
-- Interpreted the use of urgency and social engineering language
-- Summarized the phishing indicators in a structured report
+- Selected a publicly available sample phishing email.
+- Identified spoofed sender address and domain impersonation.
+- Analyzed email headers using MXToolbox to detect SPF/DKIM/DMARC failures.
+- Evaluated embedded URLs using VirusTotal and URLScan.io.
+- Interpreted the use of urgency and social engineering language.
+- Summarized the phishing indicators in a structured report.
 
 ---
 
@@ -54,7 +54,8 @@ The goal of this project is to enhance email threat detection and documentation 
 ## Author
 
 **Noor Hafsa**  
-CyberSecurity Enthusiast
+CyberSecurity Enthusiast.
+
 GitHub: [https://github.com/NoorHafsa17](https://github.com/NoorHafsa17)
 
 This project was completed to strengthen practical cybersecurity skills through hands-on investigation and documentation of phishing attack technique 
