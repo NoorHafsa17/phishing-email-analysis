@@ -41,6 +41,16 @@ The goal of this project is to enhance email threat detection and documentation 
 
 ---
 
+## Key Takeaways
+
+- How to analyze phishing emails and identify common indicators.  
+- Understanding SPF, DKIM, and DMARC authentication.  
+- Using tools like VirusTotal and URLScan.io for investigation.  
+- Improving technical documentation and cybersecurity reporting.  
+- Real-world awareness of social engineering tactics.
+
+---
+
 ## Author
 
 **Noor Hafsa**  
